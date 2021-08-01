@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from sklearn import linear_model
 
-df = pd.read_csv("honeyproduction.csv")
+df = pd.read_csv("resources/honeyproduction.csv")
 
 # Group the data by year, and find the mean for each
 prod_per_year = df.groupby('year').totalprod.mean().reset_index()
