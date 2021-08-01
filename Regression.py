@@ -36,7 +36,7 @@ future_predict = regr.predict(x_future)
 plt.plot(x_future,future_predict,color = 'red')
 
 
-
+# Plot data
 plt.title('Honey Production over Time')
 plt.ylabel('Total Production (lbs)')
 plt.xlabel('Date')
