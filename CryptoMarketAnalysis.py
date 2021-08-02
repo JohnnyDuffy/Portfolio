@@ -1,4 +1,4 @@
-## This is a script to compare any number of cryptocurrencies, comparing their correlation and relative price movement
+## This is a script to compare any number of cryptocurrencies, showing their correlation and relative price movement
 
 
 import numpy as np
