@@ -12,6 +12,7 @@
 
 import numpy as np
 
+# Here I define a class to contain the analysis functions
 
 class stock():
     def __init__(self,adj_closings):
@@ -62,7 +63,7 @@ class stock():
 
 
 
-#import adjusted closings data for the stocks, and assign them to the class
+#import adjusted closings data for the stocks, and assign them to the class.
 
 SBRA_adj_closings = np.loadtxt('resources/SBRA.csv', skiprows=1, usecols=5,delimiter = ',')
 EQR_adj_closings = np.loadtxt('resources/EQR.csv', skiprows=1, usecols=5,delimiter = ',')
@@ -71,7 +72,7 @@ SBRA = stock(SBRA_adj_closings)
 EQR = stock(EQR_adj_closings)
 
 
-
+#Print and format the data
 
 print('''
                             |    SBRA    |    EQR    |
