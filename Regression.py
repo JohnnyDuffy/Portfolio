@@ -1,4 +1,4 @@
-# This script takes data from honey producers in the US, analyses average output per year, and uses regression to extrapolate a trendline out.
+# This script takes data from honey producers in the US, analyses average output per year, and uses regression to extrapolate a trendline.
 
 
 import pandas as pd
@@ -6,9 +6,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 from sklearn import linear_model
 
+#import data. This data was taken from Kaggle.com
 df = pd.read_csv("resources/honeyproduction.csv")
 
-# Group the data by year, and find the mean for each
+# Regroup the data by year, and find the mean for each
 prod_per_year = df.groupby('year').totalprod.mean().reset_index()
 
 # Extract the year values and reshape it to vertical
