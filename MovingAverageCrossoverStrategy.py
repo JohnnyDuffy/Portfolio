@@ -1,3 +1,7 @@
+#     This is a script for a simple momentum trading bot that compares the short term and long time prices to decide to buy or sell. 
+# The script plots returns, and outputs important statistics such as the improvment over the market rate, and the Sharpe Ratio
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
