@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import pandas_datareader as web
 from datetime import datetime
 
+
+# Specify time period
 start = datetime(2018,1,1)
 end = datetime.today()
 
@@ -24,7 +26,7 @@ data.loc[:, 'window_LT'] = data['Adj Close'].rolling(
     long_term_window_size).mean()
 
 
-#Plot short and longterm averages against bitcoin price
+# Plot short and longterm averages against bitcoin price
 f = plt.figure(figsize=(11,8))
 ax = f.add_subplot(211)
 ax2 = f.add_subplot(212)
@@ -55,7 +57,7 @@ cost = (0.001 * np.abs(data['signal'] - data['signal'].shift(-1)))
 returns -= cost
 
 
-#Calculate cumulative returns of the strategy, and plot against simply HODLing
+# Calculate cumulative returns of the strategy, and plot against simply HODLing
 cumulative_returns = (returns+1).cumprod()
 ax2.plot(cumulative_returns)  # Strategy
 
@@ -68,7 +70,7 @@ ax2.grid(which="major", color='k', linestyle='-.', linewidth=0.2)
 plt.show()
 
 
-#Print final statistics
+# Print final statistics
 print('')
 print('Strategy Returns: ', (returns+1).prod() )
 
