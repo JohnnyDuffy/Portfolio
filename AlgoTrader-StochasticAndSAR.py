@@ -54,6 +54,6 @@ a1.plot(df.fastk, color='blue')
 a1.plot(df.slowd, color='orange')
 plt.axhline(80, color='black')
 plt.axhline(20, color='black')
-a1.grid(linestyle = '--')
+a1.grid(axis='x', linestyle = '--')
 
 plt.show()
