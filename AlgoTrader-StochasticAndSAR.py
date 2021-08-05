@@ -48,12 +48,12 @@ f.set_figwidth(14)
 # Plot Returns
 a0.plot((df.returns+1).cumprod(), color = 'orange')
 a0.plot((df.strategy_returns+1).cumprod(), color = 'green')
-a0.legend(['Regular','strategy'])
+a0.legend(['Regular','Strategy'])
 a0.grid(linestyle = '--')
 
 # Plot Stochastic Oscillator
 a1.plot(df.fastk, color='blue')
-a1.plot(df.slowd, color='orange')
+a1.plot(df.slowd, color='red')
 plt.axhline(80, color='black')
 plt.axhline(20, color='black')
 a1.grid(axis='x', linestyle = '--')
