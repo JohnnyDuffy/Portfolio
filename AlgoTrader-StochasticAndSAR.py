@@ -1,3 +1,5 @@
+## This is a simple bitcoin trading bot that generates buy and signals based of the calculated SAR and Stochastic Oscillator values. Although it needs tweaking to be more profitable.
+
 import numpy as np
 import pandas as pd
 import pandas_datareader as web
@@ -6,7 +8,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 # Retrieve Data
-start = datetime(2021,3,1)
+start = datetime(2021,1,1)
 end = datetime.today()
 df = web.DataReader('BTC-USD','yahoo',start,end)
 
