@@ -85,3 +85,8 @@ print('Improvement on Market: ', ((returns+1).prod() - market_returns) *100, '%'
 
 # Calculate and show Sharpe Ratio
 print('         Sharpe Ratio: ', (returns.mean()/returns.std())*(365)**(1/2) )
+
+# Calculate and show compound annual growth rate
+days = len(cumulative_returns)
+cagr = cumulative_returns.iloc[-2]**(365/days) - 1
+print('                 CAGR: ', cagr)
