@@ -15,14 +15,26 @@ duffy.johnny@gmail.com
 
 
 # [Algorithimic Trader: Moving Average Crossover Strategy](https://github.com/JohnnyDuffy/Portfolio/blob/main/AlgoTrader-MovingAverageCrossoverStrategy.py)
-![](https://github.com/JohnnyDuffy/Portfolio/blob/main/images/MACS1.png)
-
+<p align="center">
+<img src="https://github.com/JohnnyDuffy/Portfolio/blob/main/images/MACS1.png" width="900" height="610">
+</p>
 
 # [Crypto Market Analysis](https://github.com/JohnnyDuffy/Portfolio/blob/main/CryptoMarketAnalysis.py)
-![](https://github.com/JohnnyDuffy/Portfolio/blob/main/images/CMA.png)
+<p align="center">
+<img src="https://github.com/JohnnyDuffy/Portfolio/blob/main/images/CMA.png" width="800" height="610">
+</p>
 
 # [Algorithmic Trader: Stochastic Oscillator and SAR](https://github.com/JohnnyDuffy/Portfolio/blob/main/AlgoTrader-StochasticAndSAR.py)
-![](https://github.com/JohnnyDuffy/Portfolio/blob/main/images/SaSAR.png)
+<p align="center">
+<img src="https://github.com/JohnnyDuffy/Portfolio/blob/main/images/SaSAR.png" width="900" height="610">
+</p>
 
 # [Portfolio Optimisation](https://github.com/JohnnyDuffy/Portfolio/blob/main/PortfolioOptimiser.py)
-![](https://github.com/JohnnyDuffy/Portfolio/blob/main/images/PO.png)
+<p align="center">
+<img src="https://github.com/JohnnyDuffy/Portfolio/blob/main/images/PO.png" width="800" height="610">
+</p>
+
+# [Regression: Analysing Honey Production over time](https://github.com/JohnnyDuffy/Portfolio/blob/main/Regression.py)
+<p align="center">
+<img src="https://github.com/JohnnyDuffy/Portfolio/blob/main/images/REG.png" width="550" height="410">
+</p>
