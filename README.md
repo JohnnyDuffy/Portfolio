@@ -23,3 +23,6 @@ duffy.johnny@gmail.com
 
 # [Algorithmic Trader: Stochastic Oscillator and SAR](https://github.com/JohnnyDuffy/Portfolio/blob/main/AlgoTrader-StochasticAndSAR.py)
 ![](https://github.com/JohnnyDuffy/Portfolio/blob/main/images/SaSAR.png)
+
+# [Portfolio Optimisation](https://github.com/JohnnyDuffy/Portfolio/blob/main/PortfolioOptimiser.py)
+![](https://github.com/JohnnyDuffy/Portfolio/blob/main/images/PO.png)
