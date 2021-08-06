@@ -15,7 +15,7 @@ duffy.johnny@gmail.com
 
 
 # [Bitcoin Trader: Moving Average Crossover Strategy](https://github.com/JohnnyDuffy/Portfolio/blob/main/AlgoTrader-MovingAverageCrossoverStrategy.py)
-![](https://github.com/JohnnyDuffy/Portfolio/blob/main/images/MACS.png)
+![](https://github.com/JohnnyDuffy/Portfolio/blob/main/images/MACS1.png)
 
 
 # [Crypto Market Analysis](https://github.com/JohnnyDuffy/Portfolio/blob/main/CryptoMarketAnalysis.py)
