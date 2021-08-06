@@ -11,3 +11,12 @@ Thank you for you time, and please don't hesitate to get in touch if you have an
 Johnny
 
 duffy.johnny@gmail.com
+
+
+
+# [Bitcoin Trader: Moving Average Crossover Strategy](https://github.com/JohnnyDuffy/Portfolio/blob/main/AlgoTrader-MovingAverageCrossoverStrategy.py)
+![](https://github.com/JohnnyDuffy/Portfolio/blob/main/images/MACS.png)
+
+
+# [Crypto Market Analysis](https://github.com/JohnnyDuffy/Portfolio/blob/main/CryptoMarketAnalysis.py)
+![](https://github.com/JohnnyDuffy/Portfolio/blob/main/images/CMA.png)
