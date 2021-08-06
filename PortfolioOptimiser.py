@@ -8,13 +8,13 @@ from matplotlib import pyplot as plt
 from resources.Functions import return_portfolios, optimal_portfolio  #These functions were not written by myself, but taken from an online resource
 
 # Specify timeframe
-start = datetime(2017,1,30)
+start = datetime(2017,9,30)
 end = datetime.today()
 
 
 # Specify assets
 Stocks = ['AMZN','AAPL']
-Crypto = ['BTC-USD','ETH-USD']
+Crypto = ['BTC-USD','ETH-USD','LTC-USD']
 
 
 
