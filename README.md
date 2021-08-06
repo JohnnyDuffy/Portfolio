@@ -34,7 +34,7 @@ duffy.johnny@gmail.com
 <img src="https://github.com/JohnnyDuffy/Portfolio/blob/main/images/PO.png" width="550" height="410">
 </p>
 
-# [Regression: Analysing Honey Production over time](https://github.com/JohnnyDuffy/Portfolio/blob/main/Regression.py)
+# [Regression: Analysing Honey Production Over Time](https://github.com/JohnnyDuffy/Portfolio/blob/main/Regression.py)
 <p align="center">
 <img src="https://github.com/JohnnyDuffy/Portfolio/blob/main/images/REG.png" width="550" height="410">
 </p>
