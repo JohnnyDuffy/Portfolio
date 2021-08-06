@@ -31,7 +31,7 @@ duffy.johnny@gmail.com
 
 # [Portfolio Optimisation](https://github.com/JohnnyDuffy/Portfolio/blob/main/PortfolioOptimiser.py)
 <p align="center">
-<img src="https://github.com/JohnnyDuffy/Portfolio/blob/main/images/PO.png" width="800" height="610">
+<img src="https://github.com/JohnnyDuffy/Portfolio/blob/main/images/PO.png" width="550" height="410">
 </p>
 
 # [Regression: Analysing Honey Production over time](https://github.com/JohnnyDuffy/Portfolio/blob/main/Regression.py)
