@@ -15,7 +15,7 @@ duffy.johnny@gmail.com
 
 
 # [Algorithimic Trader: Moving Average Crossover Strategy](https://github.com/JohnnyDuffy/Portfolio/blob/main/AlgoTrader-MovingAverageCrossoverStrategy.py)
-* Retreives live price data for bitcoin
+* Retrieves live price data for bitcoin
 * Calculates moving averages of Adjusted Close
 * Generates buy signal if short term average is above long term average, and sell signal if short term is below long term
 * Calculates returns and compares them to simply buying and holding bitcoin
@@ -24,7 +24,7 @@ duffy.johnny@gmail.com
 </p>
 
 # [Crypto Market Analysis](https://github.com/JohnnyDuffy/Portfolio/blob/main/CryptoMarketAnalysis.py)
-* Retreives live data for any user specified crypto assets
+* Retrieves live data for any user specified crypto assets
 * Scales price data, and calculates correlation and cumulative returns of each asset. 
 * The cumulative returns plot can be swapped out to a bar chart
 <p align="center">
@@ -32,7 +32,7 @@ duffy.johnny@gmail.com
 </p>
 
 # [Algorithmic Trader: Stochastic Oscillator and SAR](https://github.com/JohnnyDuffy/Portfolio/blob/main/AlgoTrader-StochasticAndSAR.py)
-* Retreives live price data for bitcoin
+* Retrieves live price data for bitcoin
 * Uses TA-lib to calculate Stochastic Oscillator and Parabolic SAR indicators
 * Generates buy and sell signals
 * Calculates returns
@@ -41,7 +41,7 @@ duffy.johnny@gmail.com
 </p>
 
 # [Portfolio Optimisation](https://github.com/JohnnyDuffy/Portfolio/blob/main/PortfolioOptimiser.py)
-* Retreives data for a user specified portfolio of stocks and crypto assets
+* Retrieves data for a user specified portfolio of stocks and crypto assets
 * Calculates returns and covariance
 * Generates 5000 portfolios and calculates optimum weighting
 <p align="center">
