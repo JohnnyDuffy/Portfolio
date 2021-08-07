@@ -17,7 +17,7 @@ duffy.johnny@gmail.com
 # [Algorithimic Trader: Moving Average Crossover Strategy](https://github.com/JohnnyDuffy/Portfolio/blob/main/AlgoTrader-MovingAverageCrossoverStrategy.py)
 * Retreives live price data for bitcoin
 * Calculates moving averages of Adjusted Close
-* Generates buy signal if short term average is above long term average
+* Generates buy signal if short term average is above long term average, and sell signal if short term is below long term
 <p align="center">
 <img src="images/MACS1.png" width="900" height="610">
 </p>
