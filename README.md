@@ -15,7 +15,7 @@ duffy.johnny@gmail.com
 
 
 # [Algorithimic Trader: Moving Average Crossover Strategy](https://github.com/JohnnyDuffy/Portfolio/blob/main/AlgoTrader-MovingAverageCrossoverStrategy.py)
-* Retreive live price data for bitcoin
+* Retreives live price data for bitcoin
 * Calculates moving averages of Adjusted Close
 * Generates buy signal if short term average is above long term average
 <p align="center">
