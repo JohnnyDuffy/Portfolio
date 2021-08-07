@@ -18,6 +18,7 @@ duffy.johnny@gmail.com
 * Retreives live price data for bitcoin
 * Calculates moving averages of Adjusted Close
 * Generates buy signal if short term average is above long term average, and sell signal if short term is below long term
+* Calculates returns and compares them to simply buying and holding bitcoin
 <p align="center">
 <img src="images/MACS1.png" width="900" height="610">
 </p>
