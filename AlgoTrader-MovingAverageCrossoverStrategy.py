@@ -23,11 +23,9 @@ short_term_window_size = 10
 long_term_window_size = 40
 
 # Calculate and store the rolling averages in their own columns
-data.loc[:, 'window_ST'] = data['Adj Close'].rolling(
-    short_term_window_size).mean()
+data.loc[:, 'window_ST'] = data['Adj Close'].rolling(short_term_window_size).mean()
 
-data.loc[:, 'window_LT'] = data['Adj Close'].rolling(
-    long_term_window_size).mean()
+data.loc[:, 'window_LT'] = data['Adj Close'].rolling(long_term_window_size).mean()
 
 
 # Plot short and longterm averages against bitcoin price
